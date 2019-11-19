@@ -1,0 +1,23 @@
+-图书管理系统NEW
+    --AllDataBase           /* 文件夹-存放项目中用到的所有数据库
+        ---book.db          /* 图书数据库
+        ---database1.db     /* 系统成员信息数据库，包含登录和注册表
+
+    --BackGroundPicture         /* 文件夹-存放登录和注册界面的背景图片，格式为jpg
+        ---LoginBackG.jpg       /* 登录界面背景图片
+        ---ResigerBackG.jpg     /* 注册界面背景图片
+
+    --Code                  /* 文件夹-存放该项目的所有代码文件
+        ---Library_UI.py    /* 管理员图书管理系统界面的UI设计，UI转py
+        ---Login.py         /* 登陆界面UI设计，UI转py
+        ---login_Win.py     /* 登录界面，项目运行入口
+        ---ManagerLibrary.py    /* 管理员图书管理界面
+        ---Register.py          /* 注册界面UI设计，UI转py
+        ---Register_win.py      /* 注册界面
+        ---StudentLibrary.py    /* 学生图书查询系统界面
+
+    --Lib                   /* 项目Lib文件
+    --Scripts               /* 项目Scripts文件
+    --library.ui            /* 图书馆界面的UI文件
+    --pyven.cfg
+
